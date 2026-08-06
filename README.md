@@ -210,6 +210,8 @@ GROUP BY stage_name
 ORDER BY MIN(stage_sequence);
 ```
 
+![Q2 Output](output_images/Q2.jpg)
+
 **Key Findings:**
 - **Recruiter Screening:** 93.2% skills-based — the gate is working as designed
 - **Panel Round:** 70% Compensation Mismatch — by this stage, technical ability is proven; the only rejection drivers are money and fit
@@ -246,6 +248,7 @@ SELECT department,
 FROM targets
 GROUP BY department;
 ```
+![Q3 Output](output_images/Q3.jpg)
 
 **Key Findings:**
 
@@ -277,6 +280,8 @@ SELECT *, ROUND(avg_days_to_fill*100/avg_target_fill_days,2) AS pct_target_taken
 FROM attf;
 ```
 
+![Q4 Output](output_images/Q4.jpg)
+
 **Key Findings:** Critical reqs fill at 88.89% of target (7 days ahead). Low priority reqs overshoot at 112%. The priority system works — but it's zero-sum. Every hour spent rushing a Critical hire is taken from a Low priority one.
 
 ---
@@ -300,6 +305,7 @@ FROM candidates c
 JOIN application_stages a ON c.candidate_id = a.candidate_id
 GROUP BY c.source_channel;
 ```
+![Q5A Output](output_images/Q5.1.jpg)
 
 **Part B — Offer Acceptance Rate:**
 
@@ -312,6 +318,7 @@ FROM candidates c
 JOIN offers o ON c.candidate_id = o.candidate_id
 GROUP BY c.source_channel;
 ```
+![Q5B Output](output_images/Q5.2.jpg)
 
 **Key Findings:**
 
@@ -357,6 +364,7 @@ SELECT source_channel, total_candidates,
     ROUND(joined * 100 / total_candidates, 2) AS joined_pct
 FROM offer_funnel;
 ```
+![Q6 Output](output_images/Q6.jpg)
 
 **Key Findings:**
 
@@ -386,6 +394,8 @@ JOIN candidates c ON a.candidate_id = c.candidate_id
 GROUP BY source_channel
 ORDER BY dropout_pct DESC;
 ```
+![Q7 Output](output_images/Q7.jpg)
+
 
 **Key Findings:** Job Board (5.20%) and Agency/Vendor (4.93%) have dropout rates roughly double the best channels. Referral has **zero** ghosting instances — the personal connection makes it socially harder to vanish. The dropout-by-stage analysis shows System Design Round has the highest no-show rate (5 of 7 total no-shows), while Profile Submission has the highest absolute dropout volume (20 candidates), driven by client response wait times.
 
@@ -416,6 +426,7 @@ JOIN recruiters r ON j.assigned_recruiter_id = r.recruiter_id
 GROUP BY recruiter_id
 ORDER BY avg_turnaround_time DESC;
 ```
+![Q8 Output](output_images/Q8.jpg)
 
 **Key Findings:**
 
@@ -446,6 +457,7 @@ JOIN recruiters r ON j.assigned_recruiter_id = r.recruiter_id
 GROUP BY recruiter_id, recruiter_name
 ORDER BY dropout_pct DESC;
 ```
+![Q9 Output](output_images/Q9.jpg)
 
 **Key Findings:** REC007 has a 1.71% dropout rate — elevated but not the worst (REC001 at 4.69% leads). The slow turnaround creates conditions for ghosting, but the data shows the relationship isn't perfectly linear — other factors (source channel mix, role difficulty) also play a role.
 
@@ -471,6 +483,7 @@ FROM offers o
 JOIN job_requisitions j ON o.req_id = j.req_id
 GROUP BY department;
 ```
+![Q10 Output](output_images/Q10.jpg)
 
 **Key Findings:**
 - **Marketing:** 40% of offers break budget (highest frequency) — budgets may be set too tight for market rates
@@ -492,6 +505,7 @@ FROM offers
 WHERE offer_status = 'Declined'
 GROUP BY decline_reason;
 ```
+![Q11 Output](output_images/Q11.jpg)
 
 **Key Findings:**
 
@@ -511,7 +525,7 @@ GROUP BY decline_reason;
 
 ---
 
-#### Q13. What percentage of accepted offers result in no joining date?
+#### Q12. What percentage of accepted offers result in no joining date?
 
 ```sql
 SELECT department,
@@ -523,6 +537,7 @@ JOIN job_requisitions j ON o.req_id = j.req_id
 WHERE offer_status = 'Accepted'
 GROUP BY department;
 ```
+![Q12 Output](output_images/Q12.jpg)
 
 **Key Findings:** HR shows a 33.33% ghost joiner rate (2 out of 6 accepted offers never joined), and Customer Success shows 25.00% (1 of 4). These are candidates who formally accepted the offer and then disappeared — the most expensive failure mode in the entire pipeline.
 
