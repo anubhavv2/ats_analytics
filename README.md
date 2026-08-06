@@ -87,7 +87,7 @@ The dataset simulates 18 months of hiring activity (Jan 2024 – Jun 2025) acros
 
 ## Data Model / ER Diagram
 
-![ER Diagram](output_images/er diagram.png)
+![ER Diagram]([output_images/er diagram.png](https://github.com/anubhavv2/ats_analytics/blob/main/output_images/er%20diagram.png))
 
 ```
 recruiters
