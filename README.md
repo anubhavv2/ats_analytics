@@ -582,8 +582,6 @@ Based on the analysis, here are prioritized actions for the leadership team:
 
 ---
 
----
-
 ## Key Learnings
 
 - **Synthetic data design is an analytical skill in itself** — baking intentional patterns (bottleneck recruiter, source channel bias, budget overrides) into the data taught me to think about what analysis should discover, then work backward to the data structures that enable it.
