@@ -1,0 +1,54 @@
+role_level,stage_name,stage_sequence
+Entry,Recruiter Screening,1
+Entry,HR Intro Round,2
+Entry,Technical Round 1,3
+Entry,Hiring Manager Round,4
+Entry,Offer Stage,5
+Mid,Recruiter Screening,1
+Mid,Profile Submission,2
+Mid,Technical Round 1,3
+Mid,Technical Round 2,4
+Mid,Hiring Manager Round,5
+Mid,Offer Stage,6
+Senior,Recruiter Screening,1
+Senior,Profile Submission,2
+Senior,Technical Round 1,3
+Senior,Technical Round 2,4
+Senior,System Design Round,5
+Senior,Panel Round,6
+Senior,Offer Stage,7
+Lead,Recruiter Screening,1
+Lead,Profile Submission,2
+Lead,Technical Round 1,3
+Lead,Technical Round 2,4
+Lead,System Design Round,5
+Lead,Panel Round,6
+Lead,Culture Fit Round,7
+Lead,Offer Stage,8
+Manager,Recruiter Screening,1
+Manager,Profile Submission,2
+Manager,Technical Round 1,3
+Manager,Technical Round 2,4
+Manager,System Design Round,5
+Manager,Panel Round,6
+Manager,Culture Fit Round,7
+Manager,Offer Stage,8
+Director,Recruiter Screening,1
+Director,Profile Submission,2
+Director,Technical Round 1,3
+Director,Technical Round 2,4
+Director,System Design Round,5
+Director,Panel Round,6
+Director,Founder/CXO Round,7
+Director,Reference Check,8
+Director,Offer Stage,9
+VP,Recruiter Screening,1
+VP,Profile Submission,2
+VP,Technical Round 1,3
+VP,Technical Round 2,4
+VP,Technical Round 3,5
+VP,System Design Round,6
+VP,Panel Round,7
+VP,Founder/CXO Round,8
+VP,Reference Check,9
+VP,Offer Stage,10

@@ -1,0 +1,801 @@
+candidate_id,candidate_name,source_channel,application_date,current_ctc_lpa,expected_ctc_lpa,notice_period_days
+CAN00001,Priya Das,Employee Database (Inbound),2025-02-03,51.0,57.9,90
+CAN00002,Lalit Dutta,Employee Database (Inbound),2025-04-07,15.4,19.2,60
+CAN00003,Ekta Patil,Employee Database (Inbound),2025-04-24,53.2,72.6,60
+CAN00004,Priya Singh,Naukri,2025-05-13,6.1,7.3,30
+CAN00005,Chirag Sethi,Referral,2025-02-13,2.2,2.7,30
+CAN00006,Gauri Krishnan,Referral,2024-10-07,19.6,27.1,15
+CAN00007,Maya Khanna,Referral,2024-05-28,54.9,66.5,30
+CAN00008,Mohit Mukherjee,Referral,2025-01-14,43.7,61.3,0
+CAN00009,Bala Verma,Employee Database (Inbound),2025-02-20,38.8,49.7,0
+CAN00010,Rajesh Kapoor,Employee Database (Inbound),2024-12-16,39.4,46.6,30
+CAN00011,Geeta Krishnan,LinkedIn,2025-02-20,56.9,76.6,15
+CAN00012,Rajesh Srivastava,Campus Hiring,2024-12-02,24.6,33.2,15
+CAN00013,Meera Kumar,Agency/Vendor,2025-02-14,36.1,46.7,90
+CAN00014,Sameer Hegde,LinkedIn,2025-02-11,48.6,62.3,15
+CAN00015,Om Thakur,Naukri,2024-02-22,40.4,49.0,15
+CAN00016,Lalit Kamath,Campus Hiring,2024-05-03,11.9,15.6,0
+CAN00017,Vandana Saxena,Referral,2024-05-27,35.3,42.1,15
+CAN00018,Disha Saxena,Company Career Site,2024-06-04,41.3,55.4,15
+CAN00019,Om Khanna,Agency/Vendor,2024-08-22,39.9,55.9,30
+CAN00020,Aparna Malhotra,LinkedIn,2024-05-20,36.1,44.6,90
+CAN00021,Kriti Patel,Naukri,2024-11-14,26.9,34.0,30
+CAN00022,Chandni Kamath,Job Board (Indeed/Monster),2024-09-09,16.5,18.4,60
+CAN00023,Sameer Mukherjee,Agency/Vendor,2025-04-10,\N,3.6,60
+CAN00024,Naveen Pandey,Referral,2024-07-17,37.1,50.1,60
+CAN00025,Chandni Tiwari,Agency/Vendor,2024-12-31,40.0,52.2,0
+CAN00026,Tushar Joshi,Job Board (Indeed/Monster),2024-12-23,31.1,36.1,90
+CAN00027,Lakshmi Menon,Employee Database (Inbound),2024-11-11,55.1,70.6,90
+CAN00028,Tara Chatterjee,Campus Hiring,2024-11-15,10.3,14.8,30
+CAN00029,Ishita Ghosh,Campus Hiring,2024-10-17,14.2,19.1,30
+CAN00030,Om Goyal,Campus Hiring,2024-05-13,30.9,39.9,60
+CAN00031,Zara Singh,Job Board (Indeed/Monster),2024-02-05,\N,4.4,15
+CAN00032,Ishita Kamath,Naukri,2025-04-02,53.6,75.5,60
+CAN00033,Mohit Das,Campus Hiring,2024-12-09,18.2,23.6,0
+CAN00034,Mohit Mehta,Naukri,2025-06-05,18.4,21.5,0
+CAN00035,Bala Srivastava,Job Board (Indeed/Monster),2024-02-06,52.5,69.5,60
+CAN00036,Wasim Rajan,Job Board (Indeed/Monster),2024-06-07,12.4,15.7,15
+CAN00037,Ishita Joshi,LinkedIn,2025-01-13,26.3,31.0,15
+CAN00038,Pooja Singh,LinkedIn,2025-04-25,5.7,6.4,90
+CAN00039,Varun Subramaniam,Naukri,2024-05-27,\N,3.8,0
+CAN00040,Simran Kapoor,Referral,2024-11-11,27.2,37.2,60
+CAN00041,Preeti Khanna,LinkedIn,2024-12-16,12.3,15.0,15
+CAN00042,Om Joshi,Company Career Site,2024-05-27,9.1,10.7,60
+CAN00043,Aditya Pillai,LinkedIn,2024-08-05,23.9,29.8,0
+CAN00044,Ravi Srivastava,Company Career Site,2025-04-22,14.6,17.2,0
+CAN00045,Siddharth Hegde,Job Board (Indeed/Monster),2025-03-03,24.8,27.8,90
+CAN00046,Hemant Malhotra,Company Career Site,2025-01-31,40.0,49.3,90
+CAN00047,Deepa Kumar,Job Board (Indeed/Monster),2024-01-22,43.2,57.7,90
+CAN00048,Geeta Kapoor,Job Board (Indeed/Monster),2025-03-03,9.3,11.0,30
+CAN00049,Sakshi Rao,Referral,2025-03-13,5.0,6.8,30
+CAN00050,Ravi Venkatesh,Employee Database (Inbound),2024-06-14,32.3,44.5,15
+CAN00051,Aarav Saxena,Referral,2024-03-19,28.1,39.2,0
+CAN00052,Yogesh Sharma,Employee Database (Inbound),2025-06-09,25.2,27.8,90
+CAN00053,Meera Khanna,Job Board (Indeed/Monster),2025-03-10,12.6,17.6,0
+CAN00054,Deepa Chopra,Agency/Vendor,2024-10-14,15.9,22.9,90
+CAN00055,Ritika Sinha,Employee Database (Inbound),2025-02-28,11.6,13.1,30
+CAN00056,Sandeep Sinha,Naukri,2024-02-22,6.3,9.0,30
+CAN00057,Chetan Chopra,LinkedIn,2025-05-20,56.1,68.5,0
+CAN00058,Zara Ghosh,Referral,2024-10-16,7.9,11.4,60
+CAN00059,Kavya Verma,Company Career Site,2024-10-14,35.4,42.6,15
+CAN00060,Rahul Verma,Referral,2025-03-17,9.9,13.5,0
+CAN00061,Kriti Joshi,Naukri,2025-01-27,40.6,48.5,30
+CAN00062,Ira Sharma,Employee Database (Inbound),2024-10-10,20.8,26.2,15
+CAN00063,Vivek Dutta,Employee Database (Inbound),2025-06-23,23.5,28.5,30
+CAN00064,Varun Mishra,Naukri,2024-05-01,23.2,25.7,60
+CAN00065,Bala Kapoor,Employee Database (Inbound),2024-10-15,12.0,14.2,15
+CAN00066,Lalit Joshi,Employee Database (Inbound),2024-04-22,26.8,36.7,90
+CAN00067,Pooja Venkatesh,Employee Database (Inbound),2024-12-02,44.0,62.6,0
+CAN00068,Tara Agarwal,Naukri,2025-03-10,10.7,13.8,30
+CAN00069,Omprakash Hegde,Job Board (Indeed/Monster),2024-05-20,\N,4.0,60
+CAN00070,Jai Nair,Campus Hiring,2024-04-03,33.1,40.0,15
+CAN00071,Lalit Kamath,Employee Database (Inbound),2024-12-05,\N,3.6,90
+CAN00072,Ritika Bajaj,LinkedIn,2024-12-06,7.9,10.2,30
+CAN00073,Ravi Pillai,Agency/Vendor,2024-06-03,31.7,39.6,90
+CAN00074,Ravi Bajaj,Campus Hiring,2025-06-17,40.2,53.8,0
+CAN00075,Bhavna Bajaj,Naukri,2024-05-21,14.7,17.5,30
+CAN00076,Faisal Hegde,Employee Database (Inbound),2024-11-14,31.1,43.7,0
+CAN00077,Geeta Bose,Job Board (Indeed/Monster),2024-04-29,36.6,46.6,30
+CAN00078,Amit Nair,Referral,2024-12-23,38.7,53.2,60
+CAN00079,Meera Kamath,Naukri,2024-08-05,18.3,26.1,30
+CAN00080,Rahul Tiwari,Referral,2024-10-30,48.9,67.8,60
+CAN00081,Kavya Thakur,Job Board (Indeed/Monster),2025-02-17,46.4,55.0,90
+CAN00082,Siddharth Bajaj,Company Career Site,2024-07-22,36.9,46.0,90
+CAN00083,Vivek Srivastava,LinkedIn,2024-10-16,7.8,8.7,0
+CAN00084,Sakshi Chauhan,Naukri,2025-02-06,\N,3.1,15
+CAN00085,Jai Menon,LinkedIn,2024-11-11,12.7,16.7,0
+CAN00086,Divya Subramaniam,Referral,2024-05-09,14.0,16.7,0
+CAN00087,Maya Sharma,LinkedIn,2024-07-23,30.9,41.8,15
+CAN00088,Sameer Subramaniam,Employee Database (Inbound),2024-03-11,39.1,45.1,0
+CAN00089,Yash Thakur,Agency/Vendor,2024-08-08,18.9,26.8,15
+CAN00090,Simran Rao,Campus Hiring,2024-10-25,8.5,11.0,0
+CAN00091,Mohit Sharma,Referral,2025-03-12,18.5,23.9,0
+CAN00092,Yogesh Krishnan,Campus Hiring,2025-01-29,5.3,6.3,90
+CAN00093,Ravi Goyal,Agency/Vendor,2024-06-17,28.2,33.3,15
+CAN00094,Pallavi Khanna,Referral,2024-09-04,3.7,4.2,15
+CAN00095,Isha Goyal,Job Board (Indeed/Monster),2024-06-19,6.2,7.1,0
+CAN00096,Farhan Mishra,Company Career Site,2024-02-06,45.6,64.7,30
+CAN00097,Jatin Ghosh,Referral,2025-03-13,13.7,16.8,90
+CAN00098,Pallavi Bhat,Referral,2025-03-03,11.4,16.5,60
+CAN00099,Ritika Chatterjee,Naukri,2024-05-15,14.3,19.8,60
+CAN00100,Ishita Sharma,LinkedIn,2025-01-16,23.2,27.3,90
+CAN00101,Isha Patel,Agency/Vendor,2025-02-17,38.7,54.0,30
+CAN00102,Chetan Hegde,Company Career Site,2025-02-21,16.3,19.8,15
+CAN00103,Siddharth Venkatesh,Naukri,2025-02-13,\N,4.0,15
+CAN00104,Yash Hegde,Referral,2025-02-17,31.6,44.9,90
+CAN00105,Om Banerjee,Agency/Vendor,2024-06-03,\N,3.3,0
+CAN00106,Kavya Bose,LinkedIn,2025-02-19,8.2,9.9,0
+CAN00107,Ananya Agarwal,LinkedIn,2025-03-04,20.4,26.8,60
+CAN00108,Sameer Dubey,Campus Hiring,2024-10-25,7.5,8.4,90
+CAN00109,Hemant Nair,LinkedIn,2024-12-09,22.7,30.0,0
+CAN00110,Isha Kapoor,Agency/Vendor,2025-03-17,15.9,20.8,90
+CAN00111,Lalit Sinha,Campus Hiring,2024-03-25,17.2,24.1,0
+CAN00112,Komal Venkatesh,Company Career Site,2024-05-27,5.3,7.4,30
+CAN00113,Nikhil Sinha,Company Career Site,2024-02-01,2.8,3.7,0
+CAN00114,Simran Patel,Agency/Vendor,2024-05-06,\N,3.7,30
+CAN00115,Disha Goyal,Employee Database (Inbound),2025-02-21,26.6,31.4,30
+CAN00116,Omprakash Sinha,Naukri,2024-07-04,21.5,27.5,15
+CAN00117,Sandeep Banerjee,Employee Database (Inbound),2025-01-31,4.5,5.8,30
+CAN00118,Hemant Iyer,Campus Hiring,2025-05-06,10.7,15.0,0
+CAN00119,Isha Deshmukh,Campus Hiring,2024-09-10,\N,3.8,15
+CAN00120,Tara Bhat,Employee Database (Inbound),2024-11-06,8.9,10.7,15
+CAN00121,Jai Saxena,Naukri,2024-09-27,12.3,14.5,15
+CAN00122,Jatin Bose,Naukri,2025-02-06,37.4,43.5,0
+CAN00123,Vandana Bajaj,Referral,2025-03-18,\N,4.1,15
+CAN00124,Jai Iyer,Referral,2024-10-11,11.9,14.1,30
+CAN00125,Jatin Ghosh,Agency/Vendor,2025-05-12,25.2,36.5,30
+CAN00126,Gaurav Krishnan,Referral,2024-12-23,32.9,43.7,0
+CAN00127,Ishita Bose,Company Career Site,2025-03-24,\N,3.8,15
+CAN00128,Esha Venkatesh,Naukri,2025-02-27,8.5,12.0,90
+CAN00129,Nikhil Saxena,Naukri,2025-04-24,49.9,72.0,15
+CAN00130,Divya Kamath,Employee Database (Inbound),2025-02-17,25.2,31.6,0
+CAN00131,Lalit Chopra,Employee Database (Inbound),2024-03-06,34.6,49.8,0
+CAN00132,Ira Srivastava,Referral,2024-03-21,44.3,61.5,90
+CAN00133,Faisal Bose,Employee Database (Inbound),2025-02-27,45.8,51.3,15
+CAN00134,Chandni Deshmukh,Naukri,2024-05-14,13.1,15.0,60
+CAN00135,Maya Chatterjee,Campus Hiring,2024-04-29,36.1,41.5,90
+CAN00136,Tara Tiwari,Naukri,2024-09-23,5.3,7.1,30
+CAN00137,Gaurav Menon,Campus Hiring,2025-03-03,4.7,5.2,15
+CAN00138,Sameer Singh,Campus Hiring,2024-08-23,4.0,5.7,30
+CAN00139,Sneha Bhat,Job Board (Indeed/Monster),2025-02-03,\N,3.3,0
+CAN00140,Mohit Dutta,LinkedIn,2024-04-17,23.0,27.0,30
+CAN00141,Bhavna Gupta,Referral,2025-02-18,21.6,27.1,90
+CAN00142,Simran Srivastava,Company Career Site,2024-09-23,11.0,13.2,90
+CAN00143,Kavya Sethi,LinkedIn,2024-12-23,5.7,8.2,60
+CAN00144,Pallavi Srivastava,LinkedIn,2024-05-06,22.9,25.6,0
+CAN00145,Aditi Yadav,Naukri,2025-01-23,54.3,77.1,30
+CAN00146,Chirag Rao,Company Career Site,2025-05-05,21.2,24.7,90
+CAN00147,Sakshi Sinha,Employee Database (Inbound),2024-10-28,11.8,14.2,90
+CAN00148,Nikhil Bhat,Agency/Vendor,2025-02-19,3.9,4.7,90
+CAN00149,Lalit Hegde,Job Board (Indeed/Monster),2024-02-06,5.3,7.2,0
+CAN00150,Hemant Kamath,Job Board (Indeed/Monster),2024-03-05,30.4,39.2,90
+CAN00151,Shreya Bajaj,LinkedIn,2024-06-18,8.9,9.8,15
+CAN00152,Ishita Ghosh,Naukri,2024-02-12,20.0,26.0,15
+CAN00153,Varun Thakur,Employee Database (Inbound),2024-10-28,\N,3.6,0
+CAN00154,Ankur Chauhan,LinkedIn,2025-02-24,5.3,6.3,30
+CAN00155,Dev Sharma,Company Career Site,2024-12-30,36.4,44.4,60
+CAN00156,Dev Subramaniam,LinkedIn,2025-03-12,3.1,3.6,30
+CAN00157,Ekta Deshmukh,Referral,2024-12-27,36.5,52.3,15
+CAN00158,Faisal Deshmukh,Naukri,2024-05-27,4.7,5.4,30
+CAN00159,Dev Chauhan,Referral,2024-11-14,13.4,15.2,15
+CAN00160,Om Kulkarni,Company Career Site,2024-09-16,15.5,19.7,60
+CAN00161,Manish Das,LinkedIn,2024-08-12,39.6,50.2,15
+CAN00162,Bala Sinha,Naukri,2024-05-22,12.2,14.5,90
+CAN00163,Tara Yadav,Company Career Site,2024-08-05,23.5,29.8,30
+CAN00164,Rohit Tiwari,Referral,2025-02-12,26.8,35.4,0
+CAN00165,Geeta Rao,Employee Database (Inbound),2024-05-09,7.1,9.4,90
+CAN00166,Ankur Ghosh,LinkedIn,2024-12-27,50.8,68.8,90
+CAN00167,Siddharth Saxena,Job Board (Indeed/Monster),2025-02-13,38.9,50.6,30
+CAN00168,Tushar Sinha,Campus Hiring,2025-05-22,6.1,7.2,60
+CAN00169,Sneha Sethi,Employee Database (Inbound),2025-04-17,16.5,23.3,30
+CAN00170,Bhavna Patil,Job Board (Indeed/Monster),2024-10-29,6.5,7.6,15
+CAN00171,Kriti Sinha,Referral,2025-02-19,14.5,17.8,30
+CAN00172,Rajesh Khanna,Agency/Vendor,2024-07-01,3.1,4.2,30
+CAN00173,Hemant Sharma,Company Career Site,2025-02-10,\N,4.2,15
+CAN00174,Ekta Verma,Naukri,2024-06-03,38.2,51.0,60
+CAN00175,Dev Kamath,Job Board (Indeed/Monster),2024-07-17,\N,3.4,30
+CAN00176,Chirag Sethi,Naukri,2024-02-26,53.9,61.6,15
+CAN00177,Geeta Mishra,Naukri,2024-05-13,6.6,8.0,15
+CAN00178,Rajesh Saxena,Employee Database (Inbound),2025-03-10,23.1,26.1,30
+CAN00179,Simran Rao,Company Career Site,2025-01-16,52.1,71.8,90
+CAN00180,Manish Agarwal,Naukri,2025-06-16,26.8,33.0,30
+CAN00181,Harsh Nair,Campus Hiring,2025-02-06,41.1,46.2,15
+CAN00182,Kriti Dutta,Naukri,2024-10-16,49.3,60.1,30
+CAN00183,Faisal Sethi,Company Career Site,2024-09-30,7.6,11.0,15
+CAN00184,Gaurav Menon,LinkedIn,2024-11-06,10.3,12.4,30
+CAN00185,Isha Ghosh,LinkedIn,2025-04-16,25.9,37.5,0
+CAN00186,Jatin Subramaniam,Job Board (Indeed/Monster),2025-02-11,3.9,4.5,0
+CAN00187,Uma Rao,Job Board (Indeed/Monster),2025-03-10,13.0,17.3,90
+CAN00188,Gaurav Dutta,Company Career Site,2024-10-03,10.8,14.5,30
+CAN00189,Isha Patil,Referral,2024-09-16,6.9,8.6,30
+CAN00190,Uday Hegde,Job Board (Indeed/Monster),2024-09-25,\N,3.3,15
+CAN00191,Sneha Yadav,Agency/Vendor,2025-04-22,5.5,7.7,15
+CAN00192,Sameer Sethi,Agency/Vendor,2025-06-24,14.7,19.0,60
+CAN00193,Aarav Chatterjee,Referral,2025-04-02,20.5,26.3,30
+CAN00194,Divya Dutta,Naukri,2024-07-23,18.8,23.0,15
+CAN00195,Tushar Verma,LinkedIn,2024-05-20,12.1,13.5,90
+CAN00196,Aditi Hegde,Company Career Site,2024-02-22,54.4,64.2,90
+CAN00197,Lakshmi Srivastava,Campus Hiring,2024-05-15,5.3,6.8,15
+CAN00198,Manish Tiwari,Company Career Site,2025-03-07,13.8,15.9,30
+CAN00199,Ananya Goyal,Company Career Site,2024-12-30,25.8,31.3,90
+CAN00200,Varun Chauhan,Employee Database (Inbound),2024-03-04,25.5,34.7,15
+CAN00201,Chirag Mehta,Referral,2024-11-21,31.1,41.4,0
+CAN00202,Sneha Rao,LinkedIn,2025-01-27,28.9,37.8,0
+CAN00203,Jatin Khanna,Referral,2024-05-10,7.6,9.8,30
+CAN00204,Farhan Singh,Agency/Vendor,2025-01-23,16.6,20.0,90
+CAN00205,Tushar Thakur,Naukri,2024-10-28,15.0,19.9,0
+CAN00206,Ankur Chauhan,Agency/Vendor,2024-03-12,50.6,59.3,15
+CAN00207,Karan Yadav,Naukri,2024-12-26,39.0,55.4,30
+CAN00208,Yogesh Chatterjee,Naukri,2024-02-16,51.1,72.0,60
+CAN00209,Ananya Bajaj,Campus Hiring,2025-02-27,23.4,26.6,15
+CAN00210,Ravi Mehta,Employee Database (Inbound),2025-03-05,\N,3.6,60
+CAN00211,Jatin Krishnan,Job Board (Indeed/Monster),2024-11-13,32.6,46.8,60
+CAN00212,Komal Khanna,Company Career Site,2025-05-19,\N,4.1,60
+CAN00213,Bhavna Thakur,Referral,2024-06-24,6.0,7.6,0
+CAN00214,Suresh Das,Referral,2025-06-11,17.1,23.4,0
+CAN00215,Ritika Iyer,LinkedIn,2024-08-16,18.9,22.0,90
+CAN00216,Priya Verma,Job Board (Indeed/Monster),2024-05-13,5.8,7.0,15
+CAN00217,Mohit Sinha,Naukri,2025-04-14,11.1,12.4,15
+CAN00218,Rohit Gupta,Referral,2024-10-18,6.5,8.6,0
+CAN00219,Tushar Kumar,Agency/Vendor,2025-01-15,\N,3.4,30
+CAN00220,Yogesh Thakur,Naukri,2024-12-17,48.9,58.5,90
+CAN00221,Pallavi Iyer,Campus Hiring,2025-02-04,3.6,4.6,90
+CAN00222,Aditi Hegde,Referral,2024-10-28,45.4,62.7,15
+CAN00223,Sakshi Hegde,Employee Database (Inbound),2024-08-26,31.7,42.0,60
+CAN00224,Komal Yadav,Employee Database (Inbound),2025-02-26,2.3,2.9,90
+CAN00225,Lalit Joshi,Job Board (Indeed/Monster),2024-05-13,9.9,11.0,60
+CAN00226,Naveen Rajan,Employee Database (Inbound),2025-02-07,36.8,44.7,0
+CAN00227,Nikhil Thakur,Referral,2024-09-10,33.3,40.5,0
+CAN00228,Maya Reddy,Naukri,2024-06-14,6.1,8.8,90
+CAN00229,Vivek Bhat,Employee Database (Inbound),2024-02-28,20.4,22.8,60
+CAN00230,Pooja Ghosh,Agency/Vendor,2024-11-14,28.2,31.3,60
+CAN00231,Vandana Dubey,Agency/Vendor,2024-03-25,54.7,63.5,0
+CAN00232,Isha Verma,LinkedIn,2025-06-09,13.6,16.8,60
+CAN00233,Harsh Kapoor,Referral,2025-05-01,13.2,15.2,90
+CAN00234,Chetan Chauhan,Company Career Site,2024-02-19,\N,3.6,60
+CAN00235,Jatin Menon,Naukri,2024-07-09,11.0,14.6,15
+CAN00236,Sneha Pandey,Company Career Site,2025-03-14,38.1,51.2,60
+CAN00237,Ishita Subramaniam,Company Career Site,2024-02-27,3.9,5.6,90
+CAN00238,Gauri Thakur,Naukri,2024-12-10,40.1,57.9,30
+CAN00239,Hemant Sinha,Agency/Vendor,2024-10-10,13.7,17.3,90
+CAN00240,Gaurav Menon,Campus Hiring,2024-10-17,12.0,15.6,90
+CAN00241,Chirag Iyer,Employee Database (Inbound),2024-03-14,20.9,23.6,30
+CAN00242,Varun Sinha,Company Career Site,2024-10-23,12.3,16.7,15
+CAN00243,Hemant Sethi,LinkedIn,2025-02-10,13.5,16.7,30
+CAN00244,Esha Bose,Referral,2025-01-27,5.3,7.6,60
+CAN00245,Meera Deshmukh,Job Board (Indeed/Monster),2025-06-17,32.4,43.7,0
+CAN00246,Faisal Mukherjee,Naukri,2024-07-31,44.0,58.6,0
+CAN00247,Arjun Kumar,Job Board (Indeed/Monster),2024-12-30,38.5,52.0,0
+CAN00248,Vandana Sharma,Referral,2024-04-22,3.4,4.6,60
+CAN00249,Nikhil Hegde,Referral,2025-03-21,53.8,64.8,60
+CAN00250,Kriti Chauhan,Job Board (Indeed/Monster),2025-03-13,\N,4.2,30
+CAN00251,Vikram Kamath,Referral,2025-01-22,51.8,57.8,0
+CAN00252,Deepa Malhotra,Naukri,2025-03-20,12.3,15.6,90
+CAN00253,Chandni Patil,Naukri,2024-11-11,14.1,16.0,60
+CAN00254,Neha Hegde,Naukri,2024-05-17,\N,3.9,15
+CAN00255,Yogesh Malhotra,Naukri,2024-07-22,18.0,21.5,60
+CAN00256,Aparna Rao,LinkedIn,2024-10-16,55.5,72.6,30
+CAN00257,Yogesh Thakur,Naukri,2025-04-14,39.8,55.7,0
+CAN00258,Bhavna Sen,Employee Database (Inbound),2025-03-06,5.0,6.2,15
+CAN00259,Ishita Krishnan,Referral,2024-06-05,4.6,5.7,60
+CAN00260,Simran Hegde,Referral,2025-05-02,2.7,3.6,15
+CAN00261,Gaurav Nair,Agency/Vendor,2025-02-03,19.1,27.1,30
+CAN00262,Yash Sen,LinkedIn,2025-03-31,5.9,8.3,15
+CAN00263,Lalit Thakur,Campus Hiring,2024-07-18,37.7,46.0,60
+CAN00264,Varun Thakur,Naukri,2024-11-08,20.5,23.6,15
+CAN00265,Geeta Bhat,Employee Database (Inbound),2024-10-21,11.9,13.8,90
+CAN00266,Vandana Iyer,Naukri,2024-07-01,14.7,16.4,30
+CAN00267,Lalit Bose,Naukri,2024-12-02,38.9,44.9,90
+CAN00268,Jai Patel,LinkedIn,2025-05-07,2.2,2.9,0
+CAN00269,Rajesh Khanna,Job Board (Indeed/Monster),2025-03-24,25.1,32.9,0
+CAN00270,Rohit Pillai,Company Career Site,2024-02-27,13.1,17.1,0
+CAN00271,Meera Sharma,Agency/Vendor,2024-02-19,56.4,73.7,60
+CAN00272,Ankur Chatterjee,Naukri,2025-04-14,\N,3.7,30
+CAN00273,Hemant Krishnan,Agency/Vendor,2024-05-17,28.8,36.1,30
+CAN00274,Neha Deshmukh,Campus Hiring,2024-04-16,19.1,26.1,15
+CAN00275,Amit Tiwari,LinkedIn,2025-05-13,18.3,20.6,15
+CAN00276,Deepa Rao,LinkedIn,2024-09-09,\N,3.7,60
+CAN00277,Aditi Thakur,Job Board (Indeed/Monster),2025-02-18,30.8,34.9,90
+CAN00278,Tushar Agarwal,Naukri,2025-05-12,21.7,24.7,30
+CAN00279,Jai Rajan,Agency/Vendor,2025-05-27,20.6,24.7,90
+CAN00280,Vivek Mishra,Agency/Vendor,2024-05-27,27.4,36.6,0
+CAN00281,Wasim Dubey,Campus Hiring,2024-11-18,15.6,19.1,90
+CAN00282,Ananya Reddy,Campus Hiring,2024-05-24,10.5,13.9,15
+CAN00283,Dev Rajan,LinkedIn,2024-06-21,12.5,18.0,60
+CAN00284,Gauri Rao,LinkedIn,2024-10-21,12.0,16.4,60
+CAN00285,Disha Pandey,Company Career Site,2024-12-17,39.1,47.3,60
+CAN00286,Geeta Sen,Employee Database (Inbound),2024-08-07,26.5,34.9,30
+CAN00287,Bhavna Malhotra,Company Career Site,2025-01-30,7.2,9.0,0
+CAN00288,Maya Saxena,Agency/Vendor,2024-07-01,24.7,34.6,90
+CAN00289,Preeti Pillai,Campus Hiring,2025-02-04,26.5,31.0,0
+CAN00290,Hemant Agarwal,LinkedIn,2025-04-23,15.2,19.7,90
+CAN00291,Sameer Bhat,Job Board (Indeed/Monster),2024-09-30,17.3,22.8,60
+CAN00292,Rajesh Pandey,Company Career Site,2025-05-26,34.3,38.4,15
+CAN00293,Suresh Patel,Naukri,2025-02-26,3.2,3.8,15
+CAN00294,Farhan Menon,Referral,2024-05-01,\N,3.2,30
+CAN00295,Meera Khanna,Campus Hiring,2025-05-19,\N,4.4,30
+CAN00296,Chirag Dubey,LinkedIn,2024-11-01,12.4,16.2,90
+CAN00297,Farhan Mishra,Job Board (Indeed/Monster),2025-02-17,\N,3.2,15
+CAN00298,Priya Chauhan,Referral,2024-09-09,23.7,29.3,30
+CAN00299,Ira Pillai,Campus Hiring,2025-01-09,29.8,41.4,15
+CAN00300,Hemant Sethi,Company Career Site,2024-02-12,24.2,27.3,60
+CAN00301,Aparna Deshmukh,LinkedIn,2024-11-04,12.8,16.3,30
+CAN00302,Naveen Subramaniam,Campus Hiring,2024-05-09,11.4,13.0,15
+CAN00303,Bharat Sen,Employee Database (Inbound),2024-09-02,25.0,28.7,15
+CAN00304,Gauri Rao,Referral,2024-03-11,5.4,7.1,0
+CAN00305,Priya Chopra,Company Career Site,2024-09-19,25.7,32.4,60
+CAN00306,Aparna Bhat,Job Board (Indeed/Monster),2024-05-20,7.3,10.1,15
+CAN00307,Aditya Tiwari,Campus Hiring,2024-06-10,5.9,6.6,30
+CAN00308,Vivek Menon,Referral,2025-01-07,7.7,10.1,30
+CAN00309,Komal Agarwal,Campus Hiring,2024-08-23,58.4,83.2,90
+CAN00310,Jatin Pandey,Employee Database (Inbound),2025-01-02,24.3,35.1,90
+CAN00311,Sneha Saxena,Job Board (Indeed/Monster),2025-01-13,40.5,44.6,90
+CAN00312,Faisal Hegde,Naukri,2024-08-29,19.8,27.5,60
+CAN00313,Meera Patel,Company Career Site,2025-01-27,\N,3.3,60
+CAN00314,Uma Tiwari,LinkedIn,2025-04-30,\N,3.3,60
+CAN00315,Ira Joshi,LinkedIn,2025-03-06,10.1,11.4,60
+CAN00316,Komal Kulkarni,Company Career Site,2024-11-29,19.9,28.0,30
+CAN00317,Vivek Chatterjee,Employee Database (Inbound),2024-09-23,20.8,30.0,30
+CAN00318,Sakshi Sethi,Employee Database (Inbound),2024-12-04,41.9,46.4,15
+CAN00319,Vandana Sen,Employee Database (Inbound),2025-03-20,22.4,28.8,60
+CAN00320,Rajesh Tiwari,Employee Database (Inbound),2024-12-04,5.8,7.2,60
+CAN00321,Esha Joshi,Campus Hiring,2024-08-08,31.5,43.1,90
+CAN00322,Varun Dutta,LinkedIn,2024-11-11,5.3,6.0,0
+CAN00323,Aparna Goyal,Agency/Vendor,2025-06-02,13.0,18.2,60
+CAN00324,Karan Verma,Agency/Vendor,2024-02-07,28.0,38.3,90
+CAN00325,Ira Venkatesh,Campus Hiring,2024-02-27,17.3,23.2,90
+CAN00326,Rohit Krishnan,Agency/Vendor,2024-06-10,36.6,51.8,90
+CAN00327,Mohit Kapoor,Company Career Site,2025-02-21,37.8,42.7,90
+CAN00328,Gaurav Bajaj,Referral,2024-03-11,35.2,45.0,0
+CAN00329,Ravi Subramaniam,Job Board (Indeed/Monster),2025-01-30,24.7,32.9,90
+CAN00330,Sandeep Joshi,Company Career Site,2024-09-30,12.7,18.2,60
+CAN00331,Priya Deshmukh,Employee Database (Inbound),2024-04-25,22.9,32.8,30
+CAN00332,Meera Patil,Employee Database (Inbound),2024-02-22,4.3,6.0,30
+CAN00333,Tara Kamath,LinkedIn,2024-05-06,12.9,16.8,30
+CAN00334,Disha Verma,Naukri,2024-05-07,\N,3.3,90
+CAN00335,Neha Chauhan,Company Career Site,2024-05-16,3.7,4.4,0
+CAN00336,Yogesh Sen,Referral,2024-08-28,\N,3.1,15
+CAN00337,Varun Joshi,Campus Hiring,2025-05-05,48.0,67.0,90
+CAN00338,Harsh Kamath,Employee Database (Inbound),2025-01-13,18.0,22.7,90
+CAN00339,Farhan Agarwal,Company Career Site,2024-11-27,12.8,14.7,90
+CAN00340,Nandini Pillai,Campus Hiring,2024-07-01,12.9,15.4,30
+CAN00341,Preeti Patel,Employee Database (Inbound),2024-11-11,10.9,15.0,0
+CAN00342,Siddharth Goyal,LinkedIn,2024-09-13,4.0,5.2,60
+CAN00343,Pallavi Rao,Job Board (Indeed/Monster),2024-11-04,4.9,6.7,30
+CAN00344,Farhan Dubey,Job Board (Indeed/Monster),2025-01-03,62.5,89.9,0
+CAN00345,Naveen Venkatesh,Naukri,2025-01-20,20.9,29.8,15
+CAN00346,Deepa Venkatesh,LinkedIn,2024-11-06,10.7,13.6,90
+CAN00347,Ananya Sethi,Agency/Vendor,2024-09-09,46.6,56.7,90
+CAN00348,Ananya Tiwari,Job Board (Indeed/Monster),2024-07-22,18.5,22.4,0
+CAN00349,Gaurav Bose,Agency/Vendor,2024-03-04,34.8,44.0,30
+CAN00350,Isha Gupta,Employee Database (Inbound),2024-07-08,28.1,36.6,0
+CAN00351,Aditi Pandey,Company Career Site,2024-07-15,24.8,34.1,90
+CAN00352,Sneha Malhotra,Campus Hiring,2024-08-23,17.6,23.8,60
+CAN00353,Naveen Kulkarni,Campus Hiring,2024-12-20,25.7,31.6,0
+CAN00354,Mohit Patil,Employee Database (Inbound),2025-03-31,48.8,68.2,90
+CAN00355,Aditi Kumar,Job Board (Indeed/Monster),2025-03-13,13.8,20.0,30
+CAN00356,Amit Rajan,Naukri,2025-02-21,18.5,25.8,0
+CAN00357,Chetan Subramaniam,Agency/Vendor,2025-01-06,61.4,88.5,90
+CAN00358,Sakshi Sen,Referral,2024-11-15,11.5,16.1,30
+CAN00359,Karan Mehta,Employee Database (Inbound),2025-02-28,6.1,8.4,90
+CAN00360,Naveen Ghosh,Campus Hiring,2024-06-17,\N,3.1,60
+CAN00361,Suresh Subramaniam,Campus Hiring,2025-01-22,36.4,48.7,30
+CAN00362,Wasim Khanna,Campus Hiring,2024-12-18,35.3,42.3,30
+CAN00363,Zara Thakur,Company Career Site,2024-12-31,34.1,46.5,60
+CAN00364,Karan Chauhan,Agency/Vendor,2024-09-27,16.0,18.7,60
+CAN00365,Simran Thakur,Job Board (Indeed/Monster),2024-05-08,12.3,13.8,0
+CAN00366,Sandeep Deshmukh,Job Board (Indeed/Monster),2025-03-24,27.7,37.4,60
+CAN00367,Karan Khanna,Employee Database (Inbound),2025-02-27,7.1,10.3,60
+CAN00368,Uma Menon,Job Board (Indeed/Monster),2024-04-01,25.4,34.5,60
+CAN00369,Yogesh Mishra,LinkedIn,2025-02-12,\N,3.2,30
+CAN00370,Shreya Kumar,LinkedIn,2024-09-13,8.2,10.6,60
+CAN00371,Aarav Singh,LinkedIn,2024-11-04,54.6,68.5,90
+CAN00372,Nikhil Sen,LinkedIn,2025-01-02,55.5,61.9,90
+CAN00373,Preeti Sinha,Job Board (Indeed/Monster),2024-10-29,8.2,10.7,0
+CAN00374,Ishita Kumar,Agency/Vendor,2024-10-21,12.0,16.9,30
+CAN00375,Bhavna Patil,Referral,2024-02-19,2.6,3.1,60
+CAN00376,Bhavna Pillai,Campus Hiring,2024-03-07,23.2,31.5,30
+CAN00377,Karan Rao,Agency/Vendor,2024-10-21,9.8,10.8,60
+CAN00378,Disha Agarwal,Employee Database (Inbound),2024-11-21,3.9,4.8,60
+CAN00379,Simran Kapoor,Agency/Vendor,2025-05-26,17.4,21.7,60
+CAN00380,Ananya Krishnan,Job Board (Indeed/Monster),2024-10-07,28.7,40.8,30
+CAN00381,Tushar Kulkarni,Company Career Site,2024-05-17,12.7,16.2,90
+CAN00382,Jatin Sharma,Job Board (Indeed/Monster),2025-04-03,29.7,32.7,15
+CAN00383,Lalit Nair,Agency/Vendor,2024-11-18,33.8,39.5,15
+CAN00384,Manish Das,Company Career Site,2025-02-10,52.9,69.8,15
+CAN00385,Jatin Tiwari,Referral,2025-05-05,20.6,29.8,30
+CAN00386,Mohit Reddy,Job Board (Indeed/Monster),2024-05-13,4.0,4.5,30
+CAN00387,Amit Hegde,Employee Database (Inbound),2025-03-21,9.5,11.1,30
+CAN00388,Manish Ghosh,Agency/Vendor,2025-04-07,23.3,29.6,90
+CAN00389,Naveen Sinha,LinkedIn,2024-10-31,8.2,9.6,15
+CAN00390,Ritika Malhotra,Employee Database (Inbound),2024-02-05,60.2,86.3,60
+CAN00391,Ravi Chauhan,Campus Hiring,2024-05-29,5.5,7.9,0
+CAN00392,Tara Agarwal,Agency/Vendor,2024-08-08,60.6,82.4,60
+CAN00393,Nikhil Khanna,Agency/Vendor,2024-02-09,19.2,25.2,15
+CAN00394,Chandni Sen,Naukri,2024-05-20,6.5,8.7,0
+CAN00395,Mohit Joshi,Job Board (Indeed/Monster),2024-06-27,24.6,35.4,0
+CAN00396,Amit Yadav,Employee Database (Inbound),2025-05-23,26.8,38.7,15
+CAN00397,Ira Pandey,LinkedIn,2024-10-02,44.7,61.5,0
+CAN00398,Nandini Kulkarni,Agency/Vendor,2024-10-02,6.8,7.6,90
+CAN00399,Chandni Bhat,Job Board (Indeed/Monster),2024-11-05,30.7,38.0,30
+CAN00400,Yash Patel,LinkedIn,2024-09-10,\N,4.0,90
+CAN00401,Karan Subramaniam,Employee Database (Inbound),2024-05-22,8.2,9.4,30
+CAN00402,Jatin Kumar,Referral,2024-06-18,11.1,14.3,90
+CAN00403,Arjun Verma,Naukri,2025-01-13,32.7,37.0,30
+CAN00404,Arjun Rao,Job Board (Indeed/Monster),2024-07-10,20.2,28.0,15
+CAN00405,Varun Kumar,Campus Hiring,2025-05-12,27.6,37.1,90
+CAN00406,Dev Malhotra,Naukri,2024-06-17,40.3,50.4,0
+CAN00407,Nikhil Nair,Referral,2025-02-21,16.9,24.3,60
+CAN00408,Sakshi Menon,Company Career Site,2024-11-18,52.0,61.9,90
+CAN00409,Lalit Das,Job Board (Indeed/Monster),2024-07-30,3.0,4.3,60
+CAN00410,Meera Hegde,Job Board (Indeed/Monster),2024-02-07,2.5,3.0,30
+CAN00411,Priya Khanna,Naukri,2024-11-06,10.5,14.1,90
+CAN00412,Yash Bhat,Job Board (Indeed/Monster),2025-02-19,11.7,16.8,90
+CAN00413,Aarav Sethi,LinkedIn,2024-06-03,36.4,43.8,15
+CAN00414,Sneha Khanna,Employee Database (Inbound),2025-04-14,15.6,17.7,30
+CAN00415,Arjun Mehta,Campus Hiring,2024-07-01,17.8,22.2,30
+CAN00416,Lakshmi Bajaj,LinkedIn,2024-11-04,10.4,13.2,15
+CAN00417,Bala Malhotra,Referral,2024-03-11,49.0,58.7,0
+CAN00418,Sneha Rao,Company Career Site,2024-12-23,6.1,6.9,90
+CAN00419,Vikram Das,Agency/Vendor,2024-10-10,22.1,24.3,30
+CAN00420,Priya Gupta,Company Career Site,2024-10-31,14.9,17.1,90
+CAN00421,Ira Venkatesh,Employee Database (Inbound),2024-05-09,12.0,15.5,30
+CAN00422,Tara Ghosh,Naukri,2024-03-06,20.9,26.0,30
+CAN00423,Maya Kumar,Job Board (Indeed/Monster),2024-12-02,24.0,30.6,90
+CAN00424,Divya Chatterjee,Job Board (Indeed/Monster),2024-05-15,6.1,7.7,90
+CAN00425,Lakshmi Verma,LinkedIn,2024-06-26,28.6,37.8,30
+CAN00426,Vivek Joshi,Job Board (Indeed/Monster),2025-03-11,14.4,17.2,90
+CAN00427,Suresh Sinha,Employee Database (Inbound),2025-02-07,24.6,34.1,15
+CAN00428,Dev Rao,Referral,2024-11-20,21.7,25.2,60
+CAN00429,Aditi Sharma,Job Board (Indeed/Monster),2024-07-01,5.8,6.7,90
+CAN00430,Sandeep Chatterjee,Job Board (Indeed/Monster),2024-06-19,18.6,24.1,60
+CAN00431,Rajesh Verma,LinkedIn,2024-06-03,38.3,50.4,0
+CAN00432,Aarav Joshi,Campus Hiring,2025-06-23,21.5,30.7,0
+CAN00433,Sneha Goyal,Company Career Site,2025-02-06,\N,3.5,15
+CAN00434,Rajesh Goyal,Agency/Vendor,2025-05-12,2.7,3.1,30
+CAN00435,Ira Tiwari,Company Career Site,2024-05-24,4.4,5.1,90
+CAN00436,Naveen Kapoor,Job Board (Indeed/Monster),2025-04-21,39.0,46.6,0
+CAN00437,Suresh Mukherjee,Company Career Site,2025-03-07,13.5,18.6,60
+CAN00438,Komal Verma,Referral,2024-11-12,16.0,20.3,0
+CAN00439,Neha Srivastava,Naukri,2024-05-22,37.4,52.9,90
+CAN00440,Gauri Verma,Company Career Site,2024-08-07,6.4,7.7,15
+CAN00441,Dev Kamath,Naukri,2025-06-09,21.6,31.0,90
+CAN00442,Deepa Subramaniam,Agency/Vendor,2025-03-06,45.7,64.0,60
+CAN00443,Meera Dubey,Employee Database (Inbound),2024-05-21,2.7,3.8,90
+CAN00444,Rahul Mishra,Employee Database (Inbound),2024-10-09,8.9,10.7,60
+CAN00445,Nandini Deshmukh,Company Career Site,2025-03-24,22.5,27.3,30
+CAN00446,Preeti Krishnan,Naukri,2024-08-13,16.5,20.6,60
+CAN00447,Kavya Venkatesh,Company Career Site,2024-10-07,30.6,43.2,15
+CAN00448,Arjun Pillai,Naukri,2024-04-05,48.1,69.2,0
+CAN00449,Vandana Sharma,Naukri,2024-10-10,16.9,20.6,15
+CAN00450,Pallavi Chauhan,LinkedIn,2024-02-20,7.2,9.0,30
+CAN00451,Meera Reddy,Company Career Site,2024-10-22,55.0,78.6,0
+CAN00452,Om Pandey,Company Career Site,2024-09-26,\N,3.7,0
+CAN00453,Geeta Mukherjee,Company Career Site,2024-04-12,26.0,35.7,90
+CAN00454,Sandeep Agarwal,Naukri,2025-02-13,2.9,4.1,90
+CAN00455,Sakshi Patel,LinkedIn,2024-04-16,\N,3.0,90
+CAN00456,Pooja Pandey,Naukri,2025-06-11,18.5,26.7,0
+CAN00457,Sneha Chatterjee,Company Career Site,2025-03-27,12.0,15.1,15
+CAN00458,Chandni Chauhan,Referral,2024-12-25,62.3,90.2,60
+CAN00459,Vivek Reddy,Company Career Site,2025-02-24,7.7,9.0,30
+CAN00460,Ekta Mehta,Company Career Site,2024-09-03,3.9,5.2,0
+CAN00461,Pallavi Khanna,Campus Hiring,2024-09-11,32.4,43.0,90
+CAN00462,Vikram Thakur,Agency/Vendor,2025-02-05,51.2,63.2,90
+CAN00463,Deepa Bose,Naukri,2024-10-01,5.2,6.7,90
+CAN00464,Simran Patil,Campus Hiring,2024-10-01,10.4,13.8,0
+CAN00465,Preeti Sharma,Job Board (Indeed/Monster),2025-01-06,5.8,7.8,30
+CAN00466,Tushar Mukherjee,LinkedIn,2024-11-11,56.8,64.0,30
+CAN00467,Uma Rao,Employee Database (Inbound),2024-12-17,41.7,55.7,60
+CAN00468,Chetan Srivastava,LinkedIn,2024-05-10,9.7,11.2,90
+CAN00469,Chandni Mukherjee,Company Career Site,2025-05-08,13.9,16.2,15
+CAN00470,Mohit Pandey,Job Board (Indeed/Monster),2025-01-30,\N,3.1,15
+CAN00471,Shreya Rajan,Agency/Vendor,2025-01-13,6.8,8.1,0
+CAN00472,Ira Subramaniam,Employee Database (Inbound),2025-02-26,\N,3.0,30
+CAN00473,Rohit Saxena,Employee Database (Inbound),2024-09-09,15.2,19.5,0
+CAN00474,Omprakash Bhat,LinkedIn,2025-02-28,25.0,33.4,60
+CAN00475,Suresh Gupta,Company Career Site,2024-03-25,40.1,58.1,30
+CAN00476,Tara Menon,Employee Database (Inbound),2025-02-20,18.4,21.2,30
+CAN00477,Manish Das,Campus Hiring,2024-02-02,62.9,73.5,90
+CAN00478,Chirag Iyer,Company Career Site,2025-04-21,23.8,27.3,15
+CAN00479,Bala Pandey,Employee Database (Inbound),2024-09-11,5.6,6.9,30
+CAN00480,Bhavna Kulkarni,Referral,2024-09-30,5.8,6.7,30
+CAN00481,Gaurav Verma,Referral,2024-04-17,23.9,33.6,60
+CAN00482,Aarav Joshi,Campus Hiring,2025-01-07,5.2,6.1,0
+CAN00483,Priya Chatterjee,Job Board (Indeed/Monster),2024-09-23,6.3,7.9,0
+CAN00484,Simran Menon,Campus Hiring,2025-01-10,48.0,68.9,60
+CAN00485,Aditi Mehta,Referral,2024-05-13,4.4,6.0,30
+CAN00486,Nandini Pandey,Naukri,2025-01-16,21.4,28.5,90
+CAN00487,Tushar Tiwari,Campus Hiring,2024-07-29,\N,4.3,60
+CAN00488,Nikhil Bhat,LinkedIn,2025-04-11,4.5,6.1,15
+CAN00489,Disha Bajaj,LinkedIn,2024-03-22,20.7,23.6,0
+CAN00490,Rajesh Goyal,LinkedIn,2024-02-12,36.9,42.4,0
+CAN00491,Lalit Ghosh,Employee Database (Inbound),2025-03-17,24.3,31.6,60
+CAN00492,Vandana Malhotra,Agency/Vendor,2025-02-14,2.8,3.4,90
+CAN00493,Ananya Gupta,Referral,2025-03-20,2.6,3.3,30
+CAN00494,Manish Yadav,Referral,2025-03-05,26.7,38.2,90
+CAN00495,Chetan Tiwari,LinkedIn,2025-02-05,18.8,22.2,30
+CAN00496,Rahul Agarwal,Company Career Site,2025-01-10,11.1,12.4,60
+CAN00497,Harsh Iyer,Naukri,2024-04-08,11.5,14.1,15
+CAN00498,Omprakash Mukherjee,Campus Hiring,2025-01-31,57.1,68.7,15
+CAN00499,Zara Chatterjee,Campus Hiring,2024-12-26,41.5,47.6,90
+CAN00500,Manish Singh,Employee Database (Inbound),2024-08-16,\N,3.9,30
+CAN00501,Sneha Menon,Company Career Site,2024-11-11,9.9,11.7,60
+CAN00502,Bala Venkatesh,Job Board (Indeed/Monster),2025-02-03,16.3,22.7,60
+CAN00503,Naveen Banerjee,Campus Hiring,2024-05-27,10.1,13.1,90
+CAN00504,Manish Malhotra,Naukri,2024-04-19,\N,4.0,30
+CAN00505,Disha Sharma,Agency/Vendor,2025-01-06,53.7,67.4,0
+CAN00506,Zara Nair,Job Board (Indeed/Monster),2024-09-10,13.6,19.1,0
+CAN00507,Om Reddy,Referral,2025-03-05,50.6,56.5,15
+CAN00508,Tushar Bajaj,Agency/Vendor,2024-04-01,16.9,22.0,15
+CAN00509,Uday Iyer,Employee Database (Inbound),2025-06-04,\N,4.2,15
+CAN00510,Hemant Sethi,Employee Database (Inbound),2024-02-01,13.5,16.8,90
+CAN00511,Rahul Srivastava,Referral,2025-01-27,27.8,32.2,0
+CAN00512,Priya Bose,Naukri,2025-01-30,54.8,64.9,30
+CAN00513,Faisal Kapoor,LinkedIn,2024-12-23,55.2,72.2,30
+CAN00514,Omprakash Kulkarni,Job Board (Indeed/Monster),2025-03-10,25.4,28.4,90
+CAN00515,Varun Agarwal,Company Career Site,2024-12-26,35.0,50.2,0
+CAN00516,Sameer Srivastava,LinkedIn,2025-02-20,29.0,33.3,15
+CAN00517,Naveen Iyer,Job Board (Indeed/Monster),2024-06-03,56.7,73.7,60
+CAN00518,Chetan Dubey,LinkedIn,2024-10-17,22.2,31.0,60
+CAN00519,Arjun Agarwal,Campus Hiring,2025-05-02,4.7,6.4,30
+CAN00520,Aditi Malhotra,Job Board (Indeed/Monster),2024-11-11,12.3,17.3,0
+CAN00521,Naveen Venkatesh,Employee Database (Inbound),2024-12-24,21.0,27.8,0
+CAN00522,Pooja Bajaj,Employee Database (Inbound),2024-07-29,4.8,5.8,15
+CAN00523,Isha Yadav,Job Board (Indeed/Monster),2024-11-04,36.2,46.2,60
+CAN00524,Varun Goyal,Employee Database (Inbound),2025-02-13,\N,4.3,90
+CAN00525,Nikhil Srivastava,Referral,2024-03-21,24.5,33.4,90
+CAN00526,Hemant Kapoor,Campus Hiring,2025-03-21,\N,3.4,90
+CAN00527,Zara Mishra,LinkedIn,2025-04-03,23.0,33.2,60
+CAN00528,Arjun Sen,Employee Database (Inbound),2024-05-17,9.5,12.9,15
+CAN00529,Manish Reddy,Job Board (Indeed/Monster),2025-04-14,18.3,23.2,90
+CAN00530,Omprakash Subramaniam,Agency/Vendor,2025-06-25,35.9,51.1,15
+CAN00531,Tara Chopra,Referral,2024-07-05,28.5,32.9,30
+CAN00532,Tara Chauhan,Campus Hiring,2025-03-06,20.9,25.9,30
+CAN00533,Mohit Sinha,LinkedIn,2024-12-12,13.9,18.1,60
+CAN00534,Kavya Singh,Naukri,2024-05-15,\N,4.3,30
+CAN00535,Jatin Krishnan,Campus Hiring,2024-05-03,13.1,16.4,60
+CAN00536,Tanvi Mishra,Job Board (Indeed/Monster),2024-10-21,16.9,24.1,0
+CAN00537,Nikhil Gupta,Employee Database (Inbound),2024-08-15,40.7,55.5,90
+CAN00538,Neha Chauhan,LinkedIn,2024-06-07,9.9,13.4,30
+CAN00539,Karan Rao,Agency/Vendor,2024-06-10,4.1,5.7,0
+CAN00540,Bhavna Chatterjee,Naukri,2024-06-10,\N,3.6,0
+CAN00541,Varun Bose,Company Career Site,2024-02-23,21.3,28.5,30
+CAN00542,Lakshmi Krishnan,Agency/Vendor,2025-01-22,16.9,22.1,0
+CAN00543,Wasim Chatterjee,Job Board (Indeed/Monster),2024-09-18,13.0,17.0,60
+CAN00544,Wasim Kulkarni,LinkedIn,2025-01-24,40.4,48.2,90
+CAN00545,Mohit Singh,Job Board (Indeed/Monster),2024-07-26,39.9,54.4,15
+CAN00546,Tara Goyal,Job Board (Indeed/Monster),2025-01-06,47.8,64.7,15
+CAN00547,Wasim Goyal,LinkedIn,2024-10-31,6.3,8.6,15
+CAN00548,Bharat Patel,Company Career Site,2025-03-03,46.6,52.4,60
+CAN00549,Chandni Bajaj,Agency/Vendor,2024-11-19,25.6,35.5,90
+CAN00550,Nandini Kapoor,Employee Database (Inbound),2024-08-13,11.5,13.9,0
+CAN00551,Bala Goyal,Company Career Site,2025-05-08,11.0,14.6,60
+CAN00552,Manish Joshi,LinkedIn,2025-05-16,13.7,17.1,60
+CAN00553,Faisal Krishnan,Naukri,2025-06-03,25.4,35.9,30
+CAN00554,Manish Agarwal,Campus Hiring,2025-03-19,27.0,31.4,30
+CAN00555,Varun Patel,Referral,2024-06-10,5.5,6.6,60
+CAN00556,Geeta Venkatesh,Job Board (Indeed/Monster),2024-12-27,29.9,35.2,90
+CAN00557,Tara Ghosh,Referral,2024-07-08,37.2,53.5,60
+CAN00558,Sandeep Goyal,Job Board (Indeed/Monster),2025-01-27,16.1,20.9,15
+CAN00559,Nikhil Menon,Job Board (Indeed/Monster),2025-05-14,25.4,30.4,30
+CAN00560,Geeta Mishra,Company Career Site,2024-12-24,54.1,68.9,60
+CAN00561,Uma Kulkarni,Referral,2025-02-24,6.0,8.0,0
+CAN00562,Chandni Sinha,Referral,2025-02-25,13.0,17.1,0
+CAN00563,Varun Sinha,Job Board (Indeed/Monster),2025-01-27,21.0,23.6,0
+CAN00564,Bhavna Pandey,LinkedIn,2024-04-01,58.6,82.3,15
+CAN00565,Aparna Banerjee,Company Career Site,2025-03-17,26.9,37.7,0
+CAN00566,Vivek Venkatesh,Referral,2024-11-04,10.3,13.9,30
+CAN00567,Bhavna Tiwari,LinkedIn,2024-02-12,16.7,22.2,15
+CAN00568,Bhavna Bajaj,Agency/Vendor,2024-05-20,12.7,16.0,60
+CAN00569,Uday Dutta,Naukri,2024-08-12,19.3,21.4,30
+CAN00570,Wasim Tiwari,Referral,2024-08-19,16.7,21.3,90
+CAN00571,Shreya Thakur,Naukri,2024-05-27,8.4,10.3,60
+CAN00572,Jai Pillai,Company Career Site,2024-12-03,48.1,54.0,15
+CAN00573,Neha Bose,Job Board (Indeed/Monster),2024-09-02,41.5,55.3,60
+CAN00574,Zara Krishnan,Job Board (Indeed/Monster),2024-05-30,\N,4.1,15
+CAN00575,Ishita Pandey,Campus Hiring,2024-09-23,41.6,49.3,90
+CAN00576,Kriti Hegde,Employee Database (Inbound),2024-11-18,23.7,29.4,30
+CAN00577,Kriti Mehta,Employee Database (Inbound),2024-09-09,44.6,64.3,60
+CAN00578,Jai Sen,Naukri,2024-05-01,6.0,7.0,90
+CAN00579,Aparna Goyal,Naukri,2025-03-17,35.1,50.7,90
+CAN00580,Harsh Dutta,Campus Hiring,2024-07-10,3.1,4.1,30
+CAN00581,Tushar Singh,Company Career Site,2025-06-16,7.6,11.0,90
+CAN00582,Tara Thakur,LinkedIn,2024-10-30,7.6,9.9,30
+CAN00583,Rajesh Bose,Employee Database (Inbound),2024-05-20,\N,3.7,60
+CAN00584,Omprakash Singh,Company Career Site,2025-03-07,26.9,34.2,0
+CAN00585,Uday Verma,Campus Hiring,2025-02-27,45.0,50.6,0
+CAN00586,Nandini Pandey,Employee Database (Inbound),2024-06-11,32.6,36.7,90
+CAN00587,Vandana Joshi,Employee Database (Inbound),2025-06-23,6.0,7.8,30
+CAN00588,Varun Rao,Agency/Vendor,2025-01-24,\N,3.5,15
+CAN00589,Priya Kapoor,Agency/Vendor,2024-12-30,17.9,25.3,60
+CAN00590,Priya Dubey,Naukri,2024-08-12,5.8,6.6,15
+CAN00591,Amit Sharma,Agency/Vendor,2024-09-23,\N,3.2,60
+CAN00592,Zara Krishnan,Agency/Vendor,2024-06-17,14.3,17.9,30
+CAN00593,Uday Sharma,Campus Hiring,2024-07-18,\N,4.3,15
+CAN00594,Rohit Saxena,Agency/Vendor,2024-08-13,3.7,5.2,0
+CAN00595,Ritika Dutta,Employee Database (Inbound),2024-03-04,25.4,30.2,30
+CAN00596,Yash Menon,Naukri,2024-12-30,43.2,59.7,15
+CAN00597,Aditi Joshi,Company Career Site,2025-06-12,19.1,22.3,15
+CAN00598,Nandini Bose,Campus Hiring,2024-11-11,9.8,13.3,90
+CAN00599,Priya Yadav,Naukri,2025-02-24,7.4,9.3,0
+CAN00600,Omprakash Singh,Agency/Vendor,2024-05-07,31.5,36.3,90
+CAN00601,Harsh Kapoor,Company Career Site,2024-07-15,15.3,22.0,60
+CAN00602,Chirag Subramaniam,Agency/Vendor,2024-11-14,55.5,66.9,0
+CAN00603,Wasim Nair,Agency/Vendor,2024-11-14,42.1,60.3,15
+CAN00604,Kavya Bajaj,Employee Database (Inbound),2024-05-08,4.8,6.3,15
+CAN00605,Harsh Chopra,Company Career Site,2025-06-04,6.7,9.0,60
+CAN00606,Bhavna Kulkarni,Campus Hiring,2025-01-27,29.6,33.6,60
+CAN00607,Naveen Menon,Employee Database (Inbound),2025-03-18,20.6,26.7,90
+CAN00608,Faisal Sinha,Company Career Site,2024-11-25,34.2,38.1,60
+CAN00609,Faisal Banerjee,Referral,2024-12-09,20.2,28.7,0
+CAN00610,Meera Bose,Agency/Vendor,2025-02-20,6.1,7.1,60
+CAN00611,Tanvi Banerjee,Company Career Site,2025-01-27,32.0,42.4,60
+CAN00612,Harsh Bajaj,LinkedIn,2025-02-24,6.7,9.0,90
+CAN00613,Bhavna Yadav,LinkedIn,2024-12-25,27.0,33.9,0
+CAN00614,Amit Patil,Job Board (Indeed/Monster),2024-02-12,3.1,3.4,15
+CAN00615,Vandana Kapoor,Job Board (Indeed/Monster),2024-06-11,32.9,42.2,60
+CAN00616,Komal Chauhan,Agency/Vendor,2024-12-11,3.9,5.6,15
+CAN00617,Yash Pandey,Job Board (Indeed/Monster),2025-05-21,25.8,34.7,90
+CAN00618,Vikram Menon,Employee Database (Inbound),2025-03-10,22.2,31.7,60
+CAN00619,Bharat Nair,Agency/Vendor,2024-10-16,15.9,17.8,30
+CAN00620,Mohit Verma,Naukri,2024-06-11,5.1,7.3,0
+CAN00621,Chetan Banerjee,Naukri,2024-11-08,6.9,8.3,15
+CAN00622,Nandini Mishra,Campus Hiring,2024-06-10,33.3,40.7,0
+CAN00623,Suresh Hegde,Referral,2025-06-16,19.9,27.9,15
+CAN00624,Disha Patel,Naukri,2025-04-28,6.6,7.7,15
+CAN00625,Nandini Pandey,Naukri,2024-03-25,18.9,24.8,90
+CAN00626,Vandana Krishnan,LinkedIn,2024-04-30,21.4,30.4,90
+CAN00627,Omprakash Gupta,Campus Hiring,2025-02-20,6.0,8.2,0
+CAN00628,Gaurav Chatterjee,Naukri,2024-05-20,8.4,9.4,0
+CAN00629,Yash Subramaniam,Agency/Vendor,2024-09-23,60.6,68.8,15
+CAN00630,Siddharth Kapoor,LinkedIn,2025-06-16,\N,4.4,30
+CAN00631,Suresh Goyal,Campus Hiring,2024-06-03,4.2,5.2,30
+CAN00632,Divya Reddy,Company Career Site,2024-06-14,30.1,36.1,90
+CAN00633,Varun Venkatesh,Referral,2025-06-24,15.4,21.1,15
+CAN00634,Lalit Kumar,Employee Database (Inbound),2024-05-27,2.3,2.8,30
+CAN00635,Shreya Venkatesh,LinkedIn,2024-07-09,19.5,25.0,0
+CAN00636,Vandana Kamath,Referral,2024-06-18,\N,4.0,60
+CAN00637,Ishita Joshi,Job Board (Indeed/Monster),2025-04-24,3.3,4.8,60
+CAN00638,Faisal Venkatesh,Agency/Vendor,2024-03-27,39.2,48.9,60
+CAN00639,Hemant Reddy,Company Career Site,2024-02-26,21.2,24.9,15
+CAN00640,Sneha Mishra,Agency/Vendor,2024-06-17,32.8,46.8,60
+CAN00641,Jatin Sen,Company Career Site,2025-02-17,48.7,68.4,15
+CAN00642,Gaurav Bose,Referral,2024-05-22,51.8,58.5,0
+CAN00643,Karan Dutta,Agency/Vendor,2024-02-27,50.4,72.3,30
+CAN00644,Bhavna Nair,Company Career Site,2025-02-21,19.9,26.3,30
+CAN00645,Shreya Goyal,Referral,2024-02-23,54.7,69.2,60
+CAN00646,Om Bose,Naukri,2024-05-13,15.0,21.6,90
+CAN00647,Lakshmi Das,Campus Hiring,2024-05-29,26.9,31.0,15
+CAN00648,Rajesh Banerjee,Referral,2024-05-22,38.0,47.4,15
+CAN00649,Manish Bose,Referral,2025-03-12,34.9,47.7,60
+CAN00650,Tushar Bose,Employee Database (Inbound),2024-03-04,46.5,62.5,30
+CAN00651,Manish Menon,Campus Hiring,2024-09-16,10.4,12.4,60
+CAN00652,Sakshi Sinha,Naukri,2025-02-24,14.7,17.1,0
+CAN00653,Meera Subramaniam,Naukri,2024-05-28,55.9,79.6,15
+CAN00654,Omprakash Rao,Job Board (Indeed/Monster),2024-02-14,11.6,13.1,30
+CAN00655,Tanvi Banerjee,Referral,2024-09-19,\N,3.0,15
+CAN00656,Zara Mehta,LinkedIn,2025-05-30,35.1,40.9,30
+CAN00657,Kriti Ghosh,Campus Hiring,2025-03-07,13.4,15.0,0
+CAN00658,Zara Kulkarni,Employee Database (Inbound),2025-02-04,6.0,7.3,15
+CAN00659,Sakshi Kulkarni,Naukri,2025-05-01,45.9,57.5,15
+CAN00660,Lakshmi Subramaniam,Employee Database (Inbound),2025-03-11,37.6,54.0,0
+CAN00661,Priya Deshmukh,Naukri,2025-03-31,53.0,71.0,60
+CAN00662,Rahul Sen,Employee Database (Inbound),2025-02-27,5.0,6.1,15
+CAN00663,Jatin Pandey,Company Career Site,2024-07-01,6.5,7.9,90
+CAN00664,Rohit Dutta,Employee Database (Inbound),2024-04-22,35.5,48.9,30
+CAN00665,Chandni Deshmukh,Agency/Vendor,2024-09-25,\N,4.2,15
+CAN00666,Ira Banerjee,Campus Hiring,2024-11-05,13.8,17.2,0
+CAN00667,Rohit Mishra,Referral,2024-04-22,6.0,6.8,60
+CAN00668,Sameer Patel,Referral,2025-01-13,3.9,4.7,60
+CAN00669,Sakshi Yadav,Company Career Site,2024-09-25,\N,3.6,60
+CAN00670,Ananya Singh,Campus Hiring,2024-09-20,7.5,9.9,90
+CAN00671,Lalit Sen,Referral,2024-03-29,35.1,50.3,15
+CAN00672,Geeta Mukherjee,Naukri,2025-03-07,\N,3.8,90
+CAN00673,Wasim Pillai,Campus Hiring,2024-05-17,\N,3.9,90
+CAN00674,Gauri Singh,Campus Hiring,2024-05-29,54.9,76.1,30
+CAN00675,Jatin Tiwari,Company Career Site,2025-01-20,48.4,59.9,15
+CAN00676,Neha Singh,Campus Hiring,2024-03-14,39.0,50.7,15
+CAN00677,Ira Goyal,Job Board (Indeed/Monster),2024-07-31,3.9,4.7,0
+CAN00678,Hemant Bhat,Employee Database (Inbound),2024-10-14,\N,4.0,0
+CAN00679,Geeta Venkatesh,Referral,2024-08-26,37.7,51.6,30
+CAN00680,Chetan Yadav,Job Board (Indeed/Monster),2024-05-17,7.2,8.0,90
+CAN00681,Ritika Joshi,Naukri,2025-02-03,53.8,66.2,90
+CAN00682,Deepa Bose,Employee Database (Inbound),2025-01-21,35.0,49.1,15
+CAN00683,Vandana Iyer,Naukri,2025-04-24,19.6,27.3,15
+CAN00684,Aarav Banerjee,LinkedIn,2024-08-29,26.4,33.8,90
+CAN00685,Yash Hegde,Company Career Site,2024-05-06,11.4,15.5,0
+CAN00686,Varun Chauhan,Naukri,2025-01-24,3.6,4.9,30
+CAN00687,Uma Bajaj,Employee Database (Inbound),2025-03-03,16.5,19.6,60
+CAN00688,Hemant Banerjee,Referral,2024-03-11,28.2,35.8,0
+CAN00689,Dev Tiwari,Job Board (Indeed/Monster),2024-07-08,24.5,33.4,15
+CAN00690,Ekta Das,Campus Hiring,2025-03-26,30.7,39.3,15
+CAN00691,Tushar Gupta,Employee Database (Inbound),2024-09-02,14.8,18.3,15
+CAN00692,Uday Patel,LinkedIn,2024-05-02,6.7,7.7,90
+CAN00693,Bala Kumar,LinkedIn,2024-11-11,18.5,22.2,90
+CAN00694,Vikram Rao,Referral,2025-03-24,2.7,3.8,60
+CAN00695,Vivek Mishra,Agency/Vendor,2024-09-27,5.1,6.8,30
+CAN00696,Aditya Deshmukh,Employee Database (Inbound),2024-03-04,25.2,33.4,15
+CAN00697,Manish Subramaniam,LinkedIn,2025-04-28,11.6,14.5,90
+CAN00698,Preeti Thakur,Naukri,2025-03-18,25.6,34.4,30
+CAN00699,Suresh Bose,Agency/Vendor,2025-03-31,20.0,24.4,30
+CAN00700,Sameer Sen,Naukri,2024-11-07,7.0,9.4,90
+CAN00701,Uday Pandey,Naukri,2024-09-23,\N,3.6,30
+CAN00702,Chirag Dubey,LinkedIn,2025-02-07,7.1,7.8,15
+CAN00703,Chandni Reddy,Company Career Site,2024-07-22,20.6,29.7,60
+CAN00704,Geeta Agarwal,Referral,2024-01-18,20.5,29.6,30
+CAN00705,Uma Pillai,Referral,2025-06-16,51.8,70.8,15
+CAN00706,Aditya Pandey,Employee Database (Inbound),2024-12-11,5.9,8.2,15
+CAN00707,Uma Patil,Job Board (Indeed/Monster),2024-06-19,4.1,5.1,15
+CAN00708,Vandana Ghosh,Job Board (Indeed/Monster),2024-10-09,48.2,66.5,60
+CAN00709,Ishita Mehta,Company Career Site,2024-10-30,16.4,19.6,30
+CAN00710,Gaurav Sinha,Company Career Site,2025-03-26,\N,3.1,0
+CAN00711,Vivek Iyer,Campus Hiring,2024-05-27,14.1,18.0,0
+CAN00712,Vandana Mukherjee,Naukri,2025-02-19,14.7,19.3,30
+CAN00713,Pallavi Deshmukh,Company Career Site,2025-02-28,28.5,37.8,90
+CAN00714,Pooja Deshmukh,Referral,2024-08-14,12.0,17.4,30
+CAN00715,Amit Chopra,Naukri,2025-03-10,57.4,71.1,15
+CAN00716,Chetan Kumar,Campus Hiring,2024-07-24,\N,3.7,60
+CAN00717,Aditi Reddy,Agency/Vendor,2024-09-23,7.0,10.0,15
+CAN00718,Uday Srivastava,Employee Database (Inbound),2024-05-02,27.8,35.6,90
+CAN00719,Esha Joshi,Naukri,2025-06-17,26.5,35.3,60
+CAN00720,Bala Yadav,Naukri,2025-01-10,27.4,32.0,15
+CAN00721,Naveen Rajan,Agency/Vendor,2024-06-25,47.9,61.5,90
+CAN00722,Wasim Singh,Employee Database (Inbound),2024-02-06,\N,3.8,60
+CAN00723,Hemant Patel,Referral,2025-04-23,27.1,33.9,60
+CAN00724,Wasim Agarwal,Employee Database (Inbound),2025-02-17,61.1,75.7,15
+CAN00725,Arjun Kulkarni,LinkedIn,2024-05-29,21.7,26.2,0
+CAN00726,Bharat Das,Naukri,2024-12-23,36.5,46.4,30
+CAN00727,Sandeep Kamath,Campus Hiring,2024-09-09,\N,3.9,30
+CAN00728,Jai Menon,Campus Hiring,2025-01-15,6.2,7.7,15
+CAN00729,Ankur Malhotra,Naukri,2024-07-05,20.9,25.4,30
+CAN00730,Karan Singh,Employee Database (Inbound),2024-07-01,22.6,28.0,30
+CAN00731,Lakshmi Mishra,Naukri,2024-09-05,49.4,65.7,60
+CAN00732,Sneha Sharma,Company Career Site,2025-06-03,\N,4.4,90
+CAN00733,Dev Dubey,Agency/Vendor,2024-09-11,11.5,13.2,90
+CAN00734,Simran Bose,Referral,2024-12-02,10.9,13.4,30
+CAN00735,Tanvi Agarwal,Campus Hiring,2024-08-19,46.5,59.8,90
+CAN00736,Zara Menon,Job Board (Indeed/Monster),2024-05-27,3.2,3.8,0
+CAN00737,Sameer Das,Campus Hiring,2024-12-23,29.2,38.0,90
+CAN00738,Manish Bose,Agency/Vendor,2024-07-08,30.3,35.5,60
+CAN00739,Sandeep Agarwal,Campus Hiring,2024-06-11,12.3,16.4,60
+CAN00740,Siddharth Nair,LinkedIn,2024-07-01,26.2,29.4,30
+CAN00741,Suresh Tiwari,Naukri,2025-02-12,8.7,11.2,90
+CAN00742,Zara Menon,Naukri,2025-02-03,4.5,5.9,0
+CAN00743,Pooja Kulkarni,LinkedIn,2024-12-16,37.0,48.4,90
+CAN00744,Arjun Reddy,Agency/Vendor,2024-07-29,21.6,30.0,30
+CAN00745,Kavya Thakur,Campus Hiring,2025-04-28,27.0,32.4,60
+CAN00746,Komal Nair,LinkedIn,2025-01-28,30.6,44.1,30
+CAN00747,Deepa Chatterjee,Campus Hiring,2024-05-16,12.3,14.0,60
+CAN00748,Nikhil Banerjee,Employee Database (Inbound),2024-10-30,10.1,12.4,90
+CAN00749,Kriti Yadav,Campus Hiring,2025-01-13,35.9,49.2,15
+CAN00750,Aparna Banerjee,Campus Hiring,2025-01-06,34.8,48.7,0
+CAN00751,Aditi Saxena,Campus Hiring,2025-01-30,30.9,41.0,0
+CAN00752,Ishita Kapoor,Agency/Vendor,2025-03-03,21.2,26.7,30
+CAN00753,Neha Mukherjee,Naukri,2024-02-08,15.1,18.6,30
+CAN00754,Nikhil Venkatesh,Company Career Site,2025-03-26,\N,3.7,15
+CAN00755,Kavya Reddy,Company Career Site,2024-07-22,19.0,24.0,90
+CAN00756,Arjun Banerjee,Naukri,2024-05-30,50.2,59.1,0
+CAN00757,Vikram Saxena,Naukri,2024-09-12,23.1,31.3,60
+CAN00758,Siddharth Mehta,LinkedIn,2024-08-26,51.4,68.5,15
+CAN00759,Bharat Kulkarni,Campus Hiring,2025-06-02,22.4,31.6,90
+CAN00760,Farhan Sen,Job Board (Indeed/Monster),2025-02-19,40.4,53.1,60
+CAN00761,Tara Tiwari,Referral,2024-09-20,22.7,29.2,0
+CAN00762,Rahul Malhotra,Naukri,2024-12-09,29.7,38.3,15
+CAN00763,Faisal Mehta,Employee Database (Inbound),2024-09-04,5.3,6.0,30
+CAN00764,Ankur Verma,Referral,2024-05-09,22.5,25.4,15
+CAN00765,Harsh Bajaj,Referral,2025-01-29,3.6,4.8,90
+CAN00766,Gauri Patel,Referral,2024-11-04,16.9,18.8,60
+CAN00767,Tushar Venkatesh,Referral,2025-04-09,\N,3.3,90
+CAN00768,Vivek Banerjee,Naukri,2024-05-13,11.8,16.3,0
+CAN00769,Vikram Reddy,Naukri,2024-06-19,34.3,47.9,60
+CAN00770,Sandeep Ghosh,Referral,2025-06-03,17.1,24.5,60
+CAN00771,Lalit Thakur,Referral,2024-10-21,13.1,16.1,90
+CAN00772,Vikram Iyer,Job Board (Indeed/Monster),2024-10-14,5.8,7.8,60
+CAN00773,Lalit Dubey,Company Career Site,2024-09-04,13.0,18.7,90
+CAN00774,Sneha Pillai,Company Career Site,2025-04-02,6.5,9.2,0
+CAN00775,Sameer Iyer,Referral,2025-06-05,6.0,8.2,0
+CAN00776,Priya Venkatesh,Agency/Vendor,2024-10-28,4.6,6.2,90
+CAN00777,Isha Kumar,Job Board (Indeed/Monster),2024-06-18,9.0,12.4,15
+CAN00778,Omprakash Tiwari,Campus Hiring,2024-09-30,50.6,59.7,60
+CAN00779,Dev Deshmukh,Job Board (Indeed/Monster),2024-07-22,24.0,27.7,15
+CAN00780,Aditya Dubey,Company Career Site,2024-05-20,53.1,70.1,30
+CAN00781,Bala Goyal,Referral,2024-03-19,48.9,55.8,15
+CAN00782,Ananya Kapoor,Job Board (Indeed/Monster),2024-05-13,\N,4.3,0
+CAN00783,Omprakash Banerjee,Company Career Site,2024-12-16,32.5,37.4,15
+CAN00784,Omprakash Iyer,Job Board (Indeed/Monster),2025-04-02,8.2,10.4,90
+CAN00785,Lalit Dutta,Employee Database (Inbound),2024-08-28,54.7,71.8,0
+CAN00786,Meera Thakur,Campus Hiring,2024-02-26,5.1,6.7,60
+CAN00787,Lalit Chatterjee,Job Board (Indeed/Monster),2024-09-02,\N,3.2,0
+CAN00788,Wasim Sinha,Naukri,2024-07-15,15.6,17.9,60
+CAN00789,Aparna Patel,Referral,2025-06-09,6.6,8.7,60
+CAN00790,Naveen Iyer,Job Board (Indeed/Monster),2024-08-13,5.1,6.3,15
+CAN00791,Rohit Krishnan,Referral,2025-06-16,37.9,47.1,0
+CAN00792,Aditi Yadav,Company Career Site,2024-10-28,9.4,10.6,15
+CAN00793,Priya Banerjee,Naukri,2025-01-14,57.8,69.9,30
+CAN00794,Chandni Khanna,Job Board (Indeed/Monster),2024-11-01,\N,4.3,60
+CAN00795,Esha Patel,Employee Database (Inbound),2024-09-17,2.3,2.8,30
+CAN00796,Hemant Kapoor,Naukri,2024-03-08,27.6,38.1,60
+CAN00797,Zara Verma,Campus Hiring,2024-10-10,62.2,72.7,60
+CAN00798,Gauri Chauhan,Naukri,2024-12-23,\N,4.4,0
+CAN00799,Harsh Srivastava,Naukri,2024-03-25,37.2,42.8,60
+CAN00800,Gauri Sethi,Campus Hiring,2025-01-20,23.4,30.1,15
