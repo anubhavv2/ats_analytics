@@ -8,7 +8,7 @@ An end-to-end analytics project that simulates a real-world Applicant Tracking S
 
 ## Table of Contents
 
-- [Business Problem](#-business-problem)
+- [Business Problem](##-business-problem)
 - [Project Objectives](#-project-objectives)
 - [Dataset Overview](#-dataset-overview)
 - [Data Model](#-data-model--er-diagram)
