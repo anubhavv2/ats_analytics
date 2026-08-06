@@ -8,26 +8,26 @@ An end-to-end analytics project that simulates a real-world Applicant Tracking S
 
 ## Table of Contents
 
-- [Business Problem](##-business-problem)
-- [Project Objectives](#-project-objectives)
-- [Dataset Overview](#-dataset-overview)
-- [Data Model](#-data-model--er-diagram)
-- [Tools & Technologies](#%EF%B8%8F-tools--technologies)
-- [Database Setup](#-database-setup)
-- [Business Questions & Analysis](#-business-questions--analysis)
-  - [Theme 1: Hiring Funnel & Conversion](#theme-1--hiring-funnel--conversion)
-  - [Theme 2: Time-to-Fill & Hiring Velocity](#theme-2--time-to-fill--hiring-velocity)
-  - [Theme 3: Source Channel Effectiveness](#theme-3--source-channel-effectiveness)
-  - [Theme 4: Recruiter Performance](#theme-4--recruiter-performance)
-  - [Theme 5: Offer Economics & Competitiveness](#theme-5--offer-economics--competitiveness)
-  - [Theme 6: Cancelled Requisition Waste](#theme-6--cancelled-requisition-waste)
-  - [Theme 7: Ghost Joiner Analysis](#theme-7--ghost-joiner-analysis)
-- [Key Findings Summary](#-key-findings-summary)
-- [Recommendations](#-recommendations)
-- [SQL Techniques Used](#-sql-techniques-used)
-- [Project Structure](#-project-structure)
-- [How to Run This Project](#-how-to-run-this-project)
-- [Key Learnings](#-key-learnings)
+- Business Problem
+- Project Objectives
+- Dataset Overview
+- Data Model
+- Tools & Technologies
+- Database Setup
+- Business Questions & Analysis
+  - Theme 1: Hiring Funnel & Conversion
+  - Theme 2: Time-to-Fill & Hiring Velocity
+  - Theme 3: Source Channel Effectiveness
+  - Theme 4: Recruiter Performance
+  - Theme 5: Offer Economics & Competitiveness
+  - Theme 6: Cancelled Requisition Waste
+  - Theme 7: Ghost Joiner Analysis
+- Key Findings Summary
+- Recommendations
+- SQL Techniques Used
+- Project Structure
+- How to Run This Project
+- Key Learnings
 
 ---
 
@@ -56,7 +56,7 @@ Without answers to these questions, the firm is making staffing decisions, alloc
 
 1. **Design and generate** a realistic, relationally-consistent synthetic ATS dataset with intentional analytical patterns baked in
 2. **Build a normalized MySQL database** with proper schema, data types, primary/foreign key constraints, and referential integrity
-3. **Write and execute 20 analytical SQL queries** across 7 business themes, progressing from foundational metrics to advanced insights
+3. **Write and execute analytical SQL queries** across business themes, progressing from foundational metrics to advanced insights
 4. **Derive actionable business insights** from each query — not just "what does the data show" but "what should the business do about it"
 5. **Demonstrate SQL proficiency** across a range of techniques: CTEs, window functions, conditional aggregation, self-joins, subqueries, and multi-table joins
 
@@ -74,14 +74,6 @@ The dataset simulates 18 months of hiring activity (Jan 2024 – Jun 2025) acros
 | `candidates` | 800 | Applicant pool with source channels, CTC, and notice periods |
 | `application_stages` | 2,320 | Every interview stage outcome for every candidate |
 | `offers` | 53 | Offer details including CTC, status, decline reasons, joining dates |
-
-**Intentional patterns embedded in the data** (for analytical discovery):
-- Referral and Employee Database candidates have ~15–20% higher clear rates than Job Board/Agency candidates
-- Job Board and Agency/Vendor channels show elevated ghosting rates
-- Engineering requisitions miss fill targets more often than other departments
-- One specific recruiter (REC007) has consistently slower stage-to-stage turnaround
-- ~10% of offers exceed the requisition's approved budget
-- ~8% of accepted offers result in "ghost joiners" (accepted but never showed up)
 
 ---
 
@@ -127,10 +119,6 @@ stage_templates
 | **MySQL Workbench** | Query execution, ER diagram visualization, result export |
 
 ---
-
-## 🗄 Database Setup
-
-**Schema creation order** (parent tables before children to satisfy FK constraints):
 
 ```sql
 CREATE DATABASE ats_analytics DEFAULT CHARACTER SET utf8mb4;
@@ -593,32 +581,6 @@ Based on the analysis, here are prioritized actions for the leadership team:
 | **NULL handling (NULLIF, IS NULL)** | Ghost joiner identification, fresher CTC handling |
 
 ---
-
-## 📂 Project Structure
-
-```
-ats-pipeline-analytics/
-│
-├── README.md                      # This file
-├── er_diagram.png                 # Database ER diagram
-│
-├── data/
-│   ├── recruiters.csv
-│   ├── job_requisitions.csv
-│   ├── stage_templates.csv
-│   ├── candidates.csv
-│   ├── application_stages.csv
-│   └── offers.csv
-│
-├── sql/
-│   ├── 01_schema_setup.sql        # CREATE DATABASE + CREATE TABLE statements
-│   ├── 02_data_import.sql         # Full INSERT script (3,301 rows)
-│   ├── 03_validation_queries.sql  # Post-import integrity checks
-│   └── 04_analysis_queries.sql    # All 20 business queries with comments
-│
-└── docs/
-    └── queries_and_output.pdf     # Query results with screenshots
-```
 
 ---
 
