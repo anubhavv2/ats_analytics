@@ -1,4 +1,4 @@
-# ATS Pipeline Analytics — A SQL Business Case Study
+# ATS Pipeline Analytics
 
 > **Turning raw Applicant Tracking System data into actionable hiring intelligence**
 
