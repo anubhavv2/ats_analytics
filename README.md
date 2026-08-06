@@ -172,6 +172,7 @@ FROM application_stages a
 GROUP BY a.stage_name
 ORDER BY seq, candidates_entered DESC;
 ```
+![Q1 Output](output_images/Q1.jpg)
 
 **Key Findings:**
 
