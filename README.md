@@ -13,20 +13,16 @@ An end-to-end analytics project that simulates a real-world Applicant Tracking S
 - Dataset Overview
 - Data Model
 - Tools & Technologies
-- Database Setup
 - Business Questions & Analysis
   - Theme 1: Hiring Funnel & Conversion
   - Theme 2: Time-to-Fill & Hiring Velocity
   - Theme 3: Source Channel Effectiveness
   - Theme 4: Recruiter Performance
   - Theme 5: Offer Economics & Competitiveness
-  - Theme 6: Cancelled Requisition Waste
-  - Theme 7: Ghost Joiner Analysis
+  - Theme 6: Ghost Joiner Analysis
 - Key Findings Summary
 - Recommendations
 - SQL Techniques Used
-- Project Structure
-- How to Run This Project
 - Key Learnings
 
 ---
