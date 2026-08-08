@@ -2,7 +2,7 @@
 
 > **Turning raw Applicant Tracking System data into actionable hiring intelligence**
 
-An end-to-end analytics project that simulates a real-world Applicant Tracking System (ATS) for a multi-client staffing firm, builds a relational MySQL database from scratch, and answers 20 business questions that a Head of Talent Acquisition would ask — using SQL to uncover funnel bottlenecks, sourcing inefficiencies, recruiter performance gaps, and offer economics insights.
+An end-to-end analytics project that simulates a real-world Applicant Tracking System (ATS) for a multi-client staffing firm, builds a relational MySQL database from scratch, and answers business questions that a Head of Talent Acquisition would ask — using SQL to uncover funnel bottlenecks, sourcing inefficiencies, recruiter performance gaps, and offer economics insights.
 
 ---
 
